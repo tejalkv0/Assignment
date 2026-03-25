@@ -1,0 +1,12 @@
+//arthimetic
+//assignment
+//unary
+//bitwise
+//relational
+//logical-&&,||,
+//shift
+//ternary
+//instanceof 
+//type casting
+//string concatenation
+//bitwise not=[-(b+1)]
