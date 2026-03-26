@@ -1,0 +1,5 @@
+It includes 3 parts:
+->selection(decision making)
+->iteration(looping)
+->Jump(branching)
+->selection-if,if else,nested if and if else,switch
