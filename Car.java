@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Car {
     String brand;
     String model;
@@ -26,7 +25,7 @@ public class Car {
         }
     }
 
-    void setter() {
+    Car() {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter car brand");
         brand = sc.nextLine();
@@ -49,7 +48,8 @@ public class Car {
         // c2.brake();
         // c2.brake();
         Car c1=new Car();
-        c1.setter();
+        //c1.setter();
+
     }
 
 }
